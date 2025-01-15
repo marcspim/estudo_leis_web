@@ -57,7 +57,7 @@ def exibir_resultados_em_abas(paragrafos_encontrados):
 
 
 # Obter os dados do site
-url = 'https://cariacica.camarasempapel.com.br/Arquivo/Documents/legislacao/html_impressao/C1372023.html?identificador=30003A004C00'
+url = <link do site>
 requisicao = requests.get(url)
 extracao = BeautifulSoup(requisicao.text, 'html.parser')
 
