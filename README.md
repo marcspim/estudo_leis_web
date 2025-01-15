@@ -39,3 +39,6 @@ Contribuições são bem-vindas! Para contribuir com este projeto, siga estas et
 4. Envie para o repositório original (git push origin minha-nova-feature).
 5. Crie um Pull Request.
 Antes de enviar um PR, verifique se o seu código passa nos testes e siga as convenções do projeto.
+
+## Licença:
+Este projeto está licenciado sob a Licença MIT. Para mais detalhes, consulte o arquivo [LICENSE.md](LICENSE.md).
